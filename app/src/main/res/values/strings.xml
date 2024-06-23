@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Практика 15</string>
+    <string name="qes_text">Котлин - обьективно-ореинтированный язык?</string>
+    <string name="true_button">Верно</string>
+    <string name="false_button">Ложно</string>
+    <string name="correct_toast">Правильно</string>
+    <string name="incorrect_toast">Неправильно</string>
+    <string name="evil_por">Неверный логин или пароль</string>
+</resources>
